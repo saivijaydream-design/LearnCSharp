@@ -1,0 +1,5 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/HoopsManager.ConsoleApp/HoopsManager.ConsoleApp.csproj" />
+  </Folder>
+</Solution>

@@ -1,0 +1,26 @@
+# .NET build output
+bin/
+obj/
+out/
+
+# Rider / VS
+.idea/
+.vs/
+*.user
+*.suo
+
+# Rider/VS Code
+.vscode/
+
+# EF Core / local db
+*.db
+*.db-shm
+*.db-wal
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Test results
+[Tt]est[Rr]esult*/
+*.trx
