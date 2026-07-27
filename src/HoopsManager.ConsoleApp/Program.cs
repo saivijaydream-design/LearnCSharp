@@ -10,3 +10,5 @@ WriteLine();
 Topic03_DotNetArchitecture.Run();
 WriteLine();
 Topic03b_UnmanagedExample.Run();
+WriteLine();
+Topic03c_FileIoBoundary.Run();
