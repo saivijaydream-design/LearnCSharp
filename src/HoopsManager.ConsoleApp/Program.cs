@@ -7,4 +7,4 @@ using HoopsManager.ConsoleApp.Demos;
 WriteLine("🏀 HoopsManager — C# Academy");
 WriteLine();
 
-Topic02_ProgramAnatomy.Run(args);
+Topic03_DotNetArchitecture.Run();
