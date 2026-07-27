@@ -7,8 +7,4 @@ using HoopsManager.ConsoleApp.Demos;
 WriteLine("🏀 HoopsManager — C# Academy");
 WriteLine();
 
-Topic03_DotNetArchitecture.Run();
-WriteLine();
-Topic03b_UnmanagedExample.Run();
-WriteLine();
-Topic03c_FileIoBoundary.Run();
+Topic04_ValueTypes.Run();
